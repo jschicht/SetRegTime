@@ -1,0 +1,1 @@
+See wiki; http://code.google.com/p/mft2csv/wiki/SetRegTime
